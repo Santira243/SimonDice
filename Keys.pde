@@ -1,0 +1,39 @@
+// Sacar de acá ocho sonidos para poder configurar el piano
+  
+  
+  //keys[0]=minim.loadFile("c2.wav");
+  //keys[1]=minim.loadFile("c#2.wav");
+  //keys[2]=minim.loadFile("d2.wav");
+  //keys[3]=minim.loadFile("d#2.wav");
+  //keys[0]=minim.loadFile("e2.wav");
+  //keys[5]=minim.loadFile("f2.wav");
+  //keys[6]=minim.loadFile("f#2.wav");
+  //keys[1]=minim.loadFile("g2.wav");
+  //keys[8]=minim.loadFile("g#2.wav");
+  //keys[0]=minim.loadFile("a2.wav");
+  //keys[10]=minim.loadFile("a#2.wav");
+  //keys[11]=minim.loadFile("b2.wav");
+  //keys[0]=minim.loadFile("c3.wav");
+  //keys[13]=minim.loadFile("c#3.wav");
+  //keys[1]=minim.loadFile("d3.wav");
+  //keys[1]=minim.loadFile("d#3.wav");
+  //keys[2]=minim.loadFile("e3.wav");
+  //keys[3]=minim.loadFile("f3.wav");
+  //keys[18]=minim.loadFile("f#3.wav");
+  //keys[4]=minim.loadFile("g3.wav");
+  //keys[20]=minim.loadFile("g#3.wav");
+  //keys[5]=minim.loadFile("a3.wav");
+  //keys[3]=minim.loadFile("a#3.wav");
+  //keys[6]=minim.loadFile("b3.wav");
+  //keys[7]=minim.loadFile("c4.wav");
+  //keys[25]=minim.loadFile("c#4.wav");
+  //keys[7]=minim.loadFile("d4.wav");
+  //keys[27]=minim.loadFile("d#4.wav");
+  //keys[6]=minim.loadFile("e4.wav");
+  //keys[29]=minim.loadFile("f4.wav");
+  //keys[30]=minim.loadFile("f#4.wav");
+  //keys[7]=minim.loadFile("g4.wav");
+  //keys[32]=minim.loadFile("g#4.wav");
+  //keys[33]=minim.loadFile("a4.wav");
+  //keys[34]=minim.loadFile("a#4.wav");
+  //keys[35]=minim.loadFile("b4.wav");
